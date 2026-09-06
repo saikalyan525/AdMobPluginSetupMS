@@ -1,0 +1,23 @@
+{
+    "FileVersion": 3,
+    "Version": 3,
+    "VersionName": "3.0.0",
+    "FriendlyName": "AdSMS - AdMob Complete",
+    "Description": "Project-agnostic AdMob Banner, Native 3D Billboard, Interstitial and Rewarded ads for Unreal Engine 5.4. No custom GameInstance required.",
+    "Category": "Advertising",
+    "CreatedBy": "AdSMS",
+    "CanContainContent": false,
+    "Installed": false,
+    "EnabledByDefault": true,
+    "Modules": [
+        {
+            "Name": "AdSMS",
+            "Type": "Runtime",
+            "LoadingPhase": "PreDefault"
+        }
+    ],
+    "SupportedTargetPlatforms": [
+        "Win64",
+        "Android"
+    ]
+}
